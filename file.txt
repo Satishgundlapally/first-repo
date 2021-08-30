@@ -1,5 +1,15 @@
+<<<<<<< Updated upstream
 01 line
 02 line
 03 line
 04 line
 05 line
+=======
+The greatest glory 
+in living lies not in
+ never falling, (main)
+ but in rising every
+  time we fall(main)
+
+  hgyudcykk
+>>>>>>> Stashed changes
